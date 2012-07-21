@@ -1,7 +1,7 @@
 tmux-conf
 =========
 
-My tmux configuration.
+My tmux configuration. Built upon the excellent foundation provided by Brian P. Hogan's excellent book "tmux". Actually. to be perfectly honest there's not much here yet EXCEPT that foundation.
 
 
 Additional Notes
