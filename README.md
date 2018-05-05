@@ -3,6 +3,8 @@ tmux-conf
 
 My tmux configuration. Built upon the excellent foundation provided by Brian P. Hogan's excellent book "tmux". Actually. to be perfectly honest there's not much here yet EXCEPT that foundation.
 
+This version supports the version of Tmux found in Ubuntu Bionic, which is 2.6. If you want to use it with an older version, check the branches of this repository.
+
 
 Additional Notes
 ================
